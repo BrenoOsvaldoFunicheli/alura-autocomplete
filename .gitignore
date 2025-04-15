@@ -1,0 +1,6 @@
+.ipynb_checkpoints/*
+.ipynb_checkpoints/
+02-ScrappingData.ipynb
+
+**/*.ipynb_checkpoints/
+**/data/.ipynb_checkpoints
