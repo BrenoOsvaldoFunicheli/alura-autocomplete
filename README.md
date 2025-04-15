@@ -17,7 +17,7 @@ Script de instalação rápida do Elasticsearch e Kibana via Docker, fornecido p
 
 ---
 
-### `03-HandsOn.ipynb`
+### `02-HandsOn.ipynb`
 Demonstrações práticas utilizando a biblioteca Python `elasticsearch`. Inclui:
 
 - Leitura e processamento de dados de cursos da Alura
@@ -27,7 +27,7 @@ Demonstrações práticas utilizando a biblioteca Python `elasticsearch`. Inclui
 
 ---
 
-### `04-Autocomplete.ipynb`
+### `03-Autocomplete.ipynb`
 Implementação do recurso de **autocomplete** com `edge_ngram`, abordando:
 
 - Conceito de `n-gram` e `edge_ngram`
